@@ -1,0 +1,1 @@
+worker: python Nerd-Bot-3000.py
